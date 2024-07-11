@@ -4,43 +4,69 @@
       "id": 1,
       "name": "Aloe",
       "image": "./images/aloe.jpg",
-      "price": 15.99
+      "price": 15.99,
+      "soldOut": false
     },
     {
       "id": 2,
       "name": "ZZ Plant",
       "image": "./images/zz-plant.jpg",
-      "price": 25.98
+      "price": 25.98,
+      "soldOut": false
     },
     {
       "id": 3,
       "name": "Pilea peperomioides",
       "image": "./images/pilea.jpg",
-      "price": 5.99
+      "price": 5.99,
+      "soldOut": false
     },
     {
       "id": 4,
       "name": "Pothos",
       "image": "./images/pothos.jpg",
-      "price": 12.11
+      "price": 12.11,
+      "soldOut": false
     },
     {
       "id": 5,
       "name": "Jade",
       "image": "./images/jade.jpg",
-      "price": 10.37
+      "price": 10.37,
+      "soldOut": false
     },
     {
       "id": 6,
       "name": "Monstera Deliciosa",
       "image": "./images/monstera.jpg",
-      "price": 25.99
+      "price": 25.99,
+      "soldOut": false
     },
     {
       "id": 7,
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
-      "price": 55
+      "price": 55,
+      "soldOut": false
+    },
+    {
+      "name": "rose",
+      "image": "https://www.1800flowers.com/blog/wp-content/uploads/2017/03/single-red-rose.jpg",
+      "price": 20,
+      "id": 8
+    },
+    {
+      "name": "rose",
+      "image": "https://www.1800flowers.com/blog/wp-content/uploads/2017/03/single-red-rose.jpg",
+      "price": 20,
+      "id": 9,
+      "soldOut": false
+    },
+    {
+      "name": "Tulip",
+      "image": "https://www.thespruce.com/thmb/TsI3yNclW-R2QcFTFai5m99iQaY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/tulip-types-for-spring-garden-1315804-hero-5c10c927e00c459eb24c702be447e50d.jpg",
+      "price": 10,
+      "id": 10
     }
   ]
 }
